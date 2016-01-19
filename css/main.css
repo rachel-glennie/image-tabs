@@ -21,6 +21,8 @@ html {
 	padding: 0;
 	list-style-type: none;
 	text-align: center;
+	right: 50%;
+	top: 320px;
 }
 
 .tabs > li {
