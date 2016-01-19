@@ -31,7 +31,6 @@ html {
 }
 
 .toggle {
-  position: absolute;
   width: 15px;
   height: 15px;
   border: 4px grey solid;
