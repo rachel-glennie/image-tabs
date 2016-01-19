@@ -17,36 +17,36 @@ html {
 }
 
 .tabs {
-	margin: 0;
-	padding: 0;
-	list-style-type: none;
-	text-align: center;
-	right: 50%;
-	top: 320px;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-align: center;
+  right: 50%;
+  top: 320px;
 }
 
 .tabs > li {
-	display: inline-block;
-	padding: 1em;
+  display: inline-block;
+  padding: 1em;
 }
 
 .toggle {
-	position: absolute;
-	width: 15px;
-	height: 15px;
-	border: 4px grey solid;
-	border-radius: 100%;
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  border: 4px grey solid;
+  border-radius: 100%;
 }
 
-.toggle:hover{
-	background-color: grey;
+.toggle:hover {
+  background-color: grey;
 }
 
 .panel {
-	display: none;
-	text-align: center;
+  display: none;
+  text-align: center;
 }
 
 .panel:target {
-	display: block;
+  display: block;
 }
